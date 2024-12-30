@@ -1,3 +1,3 @@
 export default function Home() {
-    return <h1>Olá, Mundo! (Forçado)</h1>;
+    return <h1>Vai Corinthians! 🖤🤍🦅</h1>;
 }
